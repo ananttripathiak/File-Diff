@@ -12,7 +12,7 @@ export default function App() {
   const [viewType, setViewType] = useState('side-by-side')
   const [compared, setCompared] = useState(false)
   const [diffSnapshot, setDiffSnapshot] = useState(null)
-  const [dark, setDark] = useState(false)
+  const [dark, setDark] = useState(true)
 
   const isEmpty = left.trim() === '' && right.trim() === ''
 
