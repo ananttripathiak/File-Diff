@@ -2,7 +2,7 @@
 
 A fast, fully **client-side** code and text diff tool. Paste snippets or upload files, pick a view, and compare — nothing leaves your browser.
 
-**Live app → [ananttripathi.github.io/code-differentiator](https://ananttripathi.github.io/code-differentiator/)**
+**Live app → [ananttripathiak.github.io/File-Diff](https://ananttripathiak.github.io/File-Diff/)**
 
 Built by **[Anant Tripathi](https://ananttripathi.github.io/Anant-Portfolio/)** · [LinkedIn](https://linkedin.com/in/ananttripathiak) · [GitHub](https://github.com/ananttripathi) · [Kaggle](https://www.kaggle.com/anantkumartripathi) · [Hugging Face](https://huggingface.co/ananttripathiak)
 
@@ -52,8 +52,8 @@ No CSS framework, no router, no state management library.
 ## Local development
 
 ```bash
-git clone https://github.com/ananttripathi/code-differentiator.git
-cd code-differentiator
+git clone https://github.com/ananttripathiak/File-Diff.git
+cd File-Diff
 npm install
 npm run dev
 ```
